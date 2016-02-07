@@ -16,6 +16,7 @@ Version 1.0.3 Updates 02/07/16
 * Update toggle style and added symbol
 * Added Empty State templates
 * Added Consle list view
+* Updated Add Menu filter Tags
 
 Coming Soon
 
