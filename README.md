@@ -1,21 +1,21 @@
 # Bluemix Design Kit
 
-The Bluemix Design Kit is a living, breathing document that contains all of our visual assets (base elements, components, iconography, color palettes, grids, responsive behavior, etc). This document evolves and changes as we collaborate with partners and service teams. 
+The Bluemix Design Kit is a living, breathing document that contains all of our visual assets (base elements, components, iconography, color palettes, grids, responsive behavior, etc). This document evolves and changes as we collaborate with partners and service teams.
 
 
-## Version 1.0.3 
+## Version 1.0.3
 *Updated 02/07/16*
 
 * Global Header update + addition of symbols
 * Dashboard Headers updated with responsive behavior
-* Added designs for Dashboards with no tabs + responsive view 
+* Added designs for Dashboards with no tabs + responsive view
 * Align content on screens to fit grid margins
 * Update buttons to Title casing
 * Fix some typos and misalignment issues
 * Update typography to remove misleading graphic
 * Update toggle style and added symbol
 * Added Empty State templates
-* Added Consle list view
+* Added Console list view
 * Updated Add Menu filter Tags
 
 ## Coming Soon
