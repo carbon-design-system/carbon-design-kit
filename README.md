@@ -4,6 +4,7 @@ The Bluemix Design Kit is a living, breathing document that contains all of our 
 
 ### Current Version
 **6.0.0**
+
 *Note: Design Kit has been updated from `1.0.4` to `6.0.0` to match with [Bluemix Components](https://github.ibm.com/Bluemix/bluemix-components).*
 
 ### 📝 Change Log:
