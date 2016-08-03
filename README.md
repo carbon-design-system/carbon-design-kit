@@ -18,7 +18,7 @@ All of the designs within the Bluemix Design Kit meet the <a href="https://www.w
 ### 📚 Getting Started
 
 #### Designers
-* Download the latest version of the <a href="https://github.ibm.com/Bluemix/design-kit/blob/master/Bluemix_Design_Kit.sketch?raw=true">Bluemix Design Kit</a>. 
+* Download the latest version of the Bluemix Design Kit by clicking **Download** ZIP in the upper right hand corner of this page
 * This requires having the latest version of <a href="https://www.sketchapp.com/">Sketch</a> installed.
 * Open the Design Kit file in Sketch
 * Core visual styles, components & elements, and templates are broken out into respective pages
