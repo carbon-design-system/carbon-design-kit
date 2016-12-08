@@ -1,4 +1,4 @@
-# Carbon Design Kits
+# Carbon Design Kit
 
 The Carbon Design Kit is living, breathing document that contains all of our visual assets (base elements, components, iconography, color palettes, grids, responsive behavior, etc). This document evolves and changes as we collaborate with partners and service teams. All of the assets that live in the Design Kit can also be found on our <a href="http://design-system.stage1.mybluemix.net/index.html">Bluemix Design System</a> website.
 
