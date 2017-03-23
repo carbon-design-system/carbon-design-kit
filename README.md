@@ -37,3 +37,5 @@ Follow the steps in our <a href="https://github.ibm.com/Bluemix/design-kit/wiki/
 
 #### Code
 For instructions on contributing to our component library please read our <a href="https://github.ibm.com/Bluemix/bluemix-components/blob/master/docs/contributing.md">contributing docs</a> for Carbon Comoponents. 
+
+Copyright © 2016, 2017 IBM
