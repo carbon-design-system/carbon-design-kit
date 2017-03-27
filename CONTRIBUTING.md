@@ -2,7 +2,7 @@
 
 Our team is commited to maintaining consistent, top-quality standards and guidelines that will contribute to our greater platform. We welcome all feedback in order to produce the best possible experience for our users.
 
-Don't hesitate to reach out with questions—we're happy to chat! You can contact us at hello@carbondesignsystem.com.
+Don't hesitate to reach out with questions—we're happy to chat! 
 
 If you're interested in contributing to the Carbon Design System, we have a 5 step process for accepting new patterns. 
 
