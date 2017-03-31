@@ -18,6 +18,7 @@ All of the designs within the Carbon Design Kit meet the <a href="https://www.w3
 
 
 ## 📚 Getting Started
+> **Disclaimer:** The typeface may render poorly if the `HelvNeueBoldforIBM.otf` font is not being used.
 
 ### Designers
 * Download the latest version of the Carbon Design Kit by clicking **Download ZIP** in the upper right hand corner of this page
