@@ -4,7 +4,7 @@ The Carbon Design Kit is a living, breathing document that contains all of our v
 
 
 ## :round_pushpin: Current Version
-**6.3.1**
+**7.0**
 
 
 ## 📝 Change Log
