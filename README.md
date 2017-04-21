@@ -29,7 +29,7 @@ All of the designs within the Carbon Design Kit meet the <a href="https://www.w3
 * Updates to the Design Kit will be posted in our change log, so check back frequently for changes!
 
 ### Developers: 
-Our Carbon Components <a href="https://github.ibm.com/Bluemix/bluemix-components/blob/master/docs/getting-started/install.md">Getting Started</a> guide has all the instructions you need to get up and running our code base. 
+Our Carbon Components <a href="http://www.carbondesignsystem.com/getting-started/developers">Getting Started</a> guide has all the instructions you need to get up and running our code base. 
 
 
 ## 🌟 Contributing
