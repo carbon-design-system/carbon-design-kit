@@ -38,7 +38,7 @@ Our Carbon Components <a href="http://www.carbondesignsystem.com/getting-started
 Follow the steps in our [Contributing guidelines](https://github.com/carbon-design-system/carbon-design-kit/blob/master/CONTRIBUTING.md) to contribute to the Carbon Design System.
 
 ### Code
-For instructions on contributing to our component library please read our <a href="https://github.ibm.com/Bluemix/bluemix-components/blob/master/docs/contributing.md">contributing docs</a> for Carbon Comoponents. 
+For instructions on contributing to our component library please read our <a href="https://github.com/carbon-design-system/carbon-components/blob/master/docs/contributing.md">contributing docs</a> for Carbon Comoponents. 
 
 ---
 Copyright © 2016, 2017 IBM
