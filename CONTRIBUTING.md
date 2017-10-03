@@ -1,53 +1,61 @@
-# Contributing guidelines
+# Welcome!
 
-Our team is commited to maintaining consistent, top-quality standards and guidelines that will contribute to our greater platform. We welcome all feedback in order to produce the best possible experience for our users.
+The Carbon team is committed to maintaining consistent, quality guidelines. We welcome all feedback, designs, or ideas in order to produce the best possible experience for our users.
 
-Don't hesitate to reach out with questions—we're happy to chat! 
+If you're interested in contributing please follow the guidelines below.
 
-If you're interested in contributing to the Carbon Design System, we have a 5 step process for accepting new patterns. 
+If you have any questions, reach out to us at carbon@us.ibm.com.
 
-### Design contribution process
+## Contributing process
+### 1. Submit an issue
+The easiest way for us to get an understanding of your needs is to open an issue. Follow our issue template (you'll see this when you go to open an issue) to ensure you are meeting the issue writing requirements. Screenshots are required when submitting a new pattern or component. A member of the Carbon team will respond to your issue with next steps or a follow up. 
 
-#### 1. Research
-* Review our current components within the [Carbon component library](http://carbondesignsystem.com/components/accordion) to make sure a pattern doesn't already exist. 
-* Ensure your submission follows our [Design principles](http://carbondesignsystem.com/guidelines/principles)
-* Test your pattern prior to submission—that it should pass basic usability tests. 
+**Not sure where to open an issue?**
+
+The [carbon-design-kit repo](https://github.com/carbon-design-system/carbon-design-kit) is for Sketch and Craft bugs, as well as feedback on the Design Kit and component design.
+
+The [design-system-website repo](https://github.com/carbon-design-system/design-system-website) is for Carbon website specific feedback or bugs.
+
+**Not sure how to submit an issue?** 
+
+It's not so bad, we promise! You can read a [tutorial](https://help.github.com/articles/creating-an-issue/) on GitHub to get familiar with best practices.
+
+### 2. Design review and sync
+The easiest way to move forward in the design process is to set up an in-person or remote call with the Carbon team to go over your design work. We'll provide you with feedback on your proposal and what, if any, changes are needed before bringing them into Carbon. 
+
+**What does it take for your design to pass Carbon's design review?**
+
+The Carbon team will look for a few major things: 
+
+### Accessible
+
+* Is your design WCAG AA accessible? 
+* Does your design pass [color contrast](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html) ratio? 
+* Have you considered [keyboard tabbing](http://carbondesignsystem.com/guidelines/accessibility) and focus states?
+
+
+### Componentized
+Most components we accept into the global library need to work universally across products. 
+
+* Have you tested this design for multiple use cases? It needs to be a pattern that all teams can utilize, and global enough to fit use cases for other teams. 
+* Is there a similiar component in the library that already exists? 
+* What are the advantages of this pattern over alternative patterns?
 
 
 
-#### 2. Submission
-Any proposed contributions can be tracked in our
-[Carbon Design Kit repo](https://github.com/carbon-design-system/carbon-design-kit). To submit your contribution, open a new issue and add the label **Proposal**. If you're not familiar with GitHub, you can read a <a href="https://help.github.com/articles/creating-an-issue/">tutorial</a> to get familiar. 
+### Visual style and UX patterns
 
-When you are ready to submit an issue, use the template below. 
+* Is your design consistent with our default visual [style](http://carbondesignsystem.com/themes) we have established for the core Carbon library? 
+* Do your interaction patterns (hover, focus, motion, animations) match exisiting Carbon styles? 
+* Does your design follow basic UX best practices? 
+* Does your design promote clear language, correct grammar, and support globalization? 
+
 <hr>
 
-##### Logistics
-* Name (First, Last)
-* Service team / product team
-* Source files of proposed design and supporting screenshots
-
-##### Proposed Design
-
-* Name of pattern
-* Research that supports your pattern
-* Demonstrate at least one other use case or scenario for this pattern
-* Advantages over alternative patterns
-* How the pattern would be implemented within Bluemix's UI
-* User experience guidelines on proper usage of your pattern (do's and don'ts, best practices)
-* Development resources are greatly appreciated and welcomed. If your pattern is submitted without any code, please keep in mind it may be delayed from getting released into the Carbon component library.
-<hr> 
-
-#### 3. Review & test
-The Carbon Design System team will review your submission. 
-
-* **Consistency**: Does the pattern remain consistent with our visual style? 
-* **Accessibility**: Is your pattern compliant with accessibility standards?
-* **Usability**: Does this pattern work across multiple devices, and consider responsive design? Is the interaction flow clear and well documented? Is this a pattern that is universal, and can be widely adopted?
-* **Content**: Clear language, correct grammar, globalization
-
-If the team finds your request sufficient and it follows standards, we will include it the system. 
+_Please make sure you have run through these design guidelines prior to the initial design review meeting. The Carbon team will be looking for the points mentioned above._ 
 
 
-#### 4. Integration
-Your pattern will be integrated into the Carbon Design System and tagged as **Experimental**. During Experimental, our team will be collecting feedback and metrics on your pattern. Additional reviews may be conducted to tweak the pattern as it adapts into Carbon.
+### 3. Roadmap
+We'll work with your team to determine when your design will be implemented into Carbon, and the logisitics behind it. Development resources are greatly appreciated and welcomed. If your pattern is submitted without any code, please keep in mind it may be delayed from getting released into the Carbon component library until we can fit it into our team sprint schedule. 
+
+
