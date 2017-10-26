@@ -14,11 +14,13 @@ All of the designs within the Carbon Design Kit meet the <a href="https://www.w3
 
 
 ## 📚 Getting Started
-> **Disclaimer:** Assets in the Sketch file may render poorly and not to spec if the `HelvNeueforIBM.otf` font is not being used.
 
 ### Designers
-* Download the latest version of the Carbon Design Kit by clicking **Download ZIP** in the upper right hand corner of this page
-* This requires having the latest version of <a href="https://www.sketchapp.com/">Sketch</a> installed.
+
+* The Carbon Design Kit now uses the new typeface **IBM Plex**. It is open sourced and free to download from the [IBM GitHub repo](https://github.com/IBM/type/tree/master/fonts) 
+* Download the latest version of the Carbon Design Kit by clicking on the latest kit file in this repo (`Carbon_Design-Kit_x.x.x.sketch`) then on the next age click the download button or “View Raw”. (Note: downloading from the main repo page will download the entire repo including previous version)
+
+* The Design Kit requires having the latest version of <a href="https://www.sketchapp.com/">Sketch</a> installed.
 * Open the Design Kit file in Sketch
 * Core visual styles, components, and templates are broken out into respective pages
 * Use the components and core visual styles to build out your design
