@@ -5,7 +5,7 @@ The Carbon Design Kit is a living, breathing document that contains all of our v
 
 ## 📝 Change Log
 Contains release notes on current and previous versions of the Carbon Design Kit. 
-* [`6.x.x`](https://github.ibm.com/Bluemix/design-kit/releases/)
+* [`8.x.x`](https://github.ibm.com/Bluemix/design-kit/releases/)
 * [`1.0.4` and older](https://github.ibm.com/Bluemix/design-kit/releases/tag/1.0.4)
 
 
