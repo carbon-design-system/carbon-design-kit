@@ -6,7 +6,7 @@
 
 ## Detailed description
 
-Describe in detail the issue you're having. Please include whether or not this is part of Sketch Libraries or the larger Sketch Kit.
+Describe in detail the issue you're having. Please include whether or not this is part of Sketch Libraries or the larger Sketch Kit file.
 
 
 
