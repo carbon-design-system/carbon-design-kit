@@ -8,6 +8,7 @@
 
 Describe in detail the issue you're having. Please include whether or not this is part of Sketch Libraries or the larger Sketch Kit file.
 
+> What version of the Carbon Design System Kit are you using?
 
 
 > Is this issue related to a specific component? If so please give the page, artboard, and layer/symbol name.
@@ -17,9 +18,6 @@ Describe in detail the issue you're having. Please include whether or not this i
 
 
 > Is this issue being filed based on a discrepancy between the website/code and the kit? If so what is the inconsistency?
-
-
-> What version of the Carbon Design System Kit are you using?
 
 
 > What offering/product do you work on? Any pressing ship or release dates we should be aware of?
