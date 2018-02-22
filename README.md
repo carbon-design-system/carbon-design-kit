@@ -39,7 +39,7 @@ Follow the steps in our [Contributing guidelines](https://github.com/carbon-desi
 For instructions on contributing to our component library please read our <a href="https://github.com/carbon-design-system/carbon-components/blob/master/docs/contributing.md">contributing docs</a> for Carbon Comoponents. 
 
 
-## Additions
+## 💻 Workflow
 
 ### Sketch Libraries
 Sketch Libraries is a new Sketch feature that allows designers to share Symbols across documents and easily update to the latest symbol changes. Read the [Sketch Libraries Overview wiki](https://github.com/carbon-design-system/carbon-design-kit/wiki/Sketch-Libraries-Overview) to learn more about how to use and implement Sketch Libraries in your workflow.
