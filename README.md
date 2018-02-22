@@ -38,5 +38,14 @@ Follow the steps in our [Contributing guidelines](https://github.com/carbon-desi
 ### Code
 For instructions on contributing to our component library please read our <a href="https://github.com/carbon-design-system/carbon-components/blob/master/docs/contributing.md">contributing docs</a> for Carbon Comoponents. 
 
+
+## Additions
+
+### Sketch Libraries
+Sketch Libraries is a new Sketch feature that allows designers to share Symbols across documents and easily update to the latest symbol changes. Read the [Sketch Libraries Overview wiki](https://github.com/carbon-design-system/carbon-design-kit/wiki/Sketch-Libraries-Overview) to learn more about how to use and implement Sketch Libraries in your workflow.
+
+### Plugins
+The Carbon Design Kit now comes with the Sketch Palettes plugin which allows you to import Carbon specific palettes into your Sketch files. There are four Carbon palettes (a Carbon default palette and three data vis palettes) included with the Carbon Design Kit download. We also have a [wiki](https://github.com/carbon-design-system/carbon-design-kit/wiki/Suggested-Sketch-Plugins) of suggested Sketch plugins to help make your design workflow more efficient.
+
 ---
-Copyright © 2016, 2017 IBM
+Copyright © 2016, 2017, 2018 IBM
