@@ -46,7 +46,7 @@ Most components we accept into the global library need to work universally acros
 ### Visual style and UX patterns
 
 * Is your design consistent with our default visual [style](http://carbondesignsystem.com/themes) we have established for the core Carbon library? 
-* Do your interaction patterns (hover, focus, motion, animations) match exisiting Carbon styles? 
+* Do your interaction patterns (hover, focus, motion, animations) match existing Carbon styles? 
 * Does your design follow basic UX best practices? 
 * Does your design promote clear language, correct grammar, and support globalization? 
 
@@ -56,6 +56,6 @@ _Please make sure you have run through these design guidelines prior to the init
 
 
 ### 3. Roadmap
-We'll work with your team to determine when your design will be implemented into Carbon, and the logisitics behind it. Development resources are greatly appreciated and welcomed. If your pattern is submitted without any code, please keep in mind it may be delayed from getting released into the Carbon component library until we can fit it into our team sprint schedule. 
+We'll work with your team to determine when your design will be implemented into Carbon, and the logistics behind it. Development resources are greatly appreciated and welcomed. If your pattern is submitted without any code, please keep in mind it may be delayed from getting released into the Carbon component library until we can fit it into our team sprint schedule. 
 
 
