@@ -18,7 +18,7 @@ All of the designs within the Carbon Design Kit meet the <a href="https://www.w3
 ### Designers
 
 * The Carbon Design Kit now uses the new typeface **IBM Plex**. It is open sourced and free to download from the [IBM GitHub repo](https://github.com/IBM/plex) 
-* Download the latest version of the Carbon Design Kit by clicking on the latest kit file in this repo (`Carbon_Design-Kit_x.x.x.sketch`) then on the next age click the download button or “View Raw”. (Note: downloading from the main repo page will download the entire repo including previous version)
+* Download the latest version of the Carbon Design Kit by clicking on the latest kit file in this repo (`Carbon_Design-Kit_x.x.x.sketch`) then on the next page click the download button or “View Raw”. (Note: downloading from the main repo page will download the entire repo including previous version)
 
 * The Design Kit requires having the latest version of <a href="https://www.sketchapp.com/">Sketch</a> installed.
 * Open the Design Kit file in Sketch
