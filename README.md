@@ -18,7 +18,7 @@ All of the designs within the Carbon Design Kit meet the <a href="https://www.w3
 ### Designers
 
 * The Carbon Design Kit now uses the new typeface **IBM Plex**. It is open sourced and free to download from the [IBM GitHub repo](https://github.com/IBM/plex) 
-* Download the latest version of the Carbon Design Kit by clicking on the latest kit file in this repo (`Carbon_Design-Kit_x.x.x.sketch`) then on the next age click the download button or “View Raw”. (Note: downloading from the main repo page will download the entire repo including previous version)
+* Download the latest version of the Carbon Design Kit by clicking on the latest kit file in this repo (`Carbon_Design-Kit_x.x.x.sketch`) then on the next page click the download button or “View Raw”. (Note: downloading from the main repo page will download the entire repo including previous version)
 
 * The Design Kit requires having the latest version of <a href="https://www.sketchapp.com/">Sketch</a> installed.
 * Open the Design Kit file in Sketch
@@ -27,7 +27,9 @@ All of the designs within the Carbon Design Kit meet the <a href="https://www.w3
 * Updates to the Design Kit will be posted in our change log, so check back frequently for changes!
 
 ### Developers: 
-Our Carbon Components <a href="http://www.carbondesignsystem.com/getting-started/developers">Getting Started</a> guide has all the instructions you need to get up and running our code base. 
+Our **Carbon Components** <a href="https://www.carbondesignsystem.com/get-started/develop/react/">Getting Started</a> guide has all the instructions you need to get up and running our code base.
+
+For **Carbon Data Visualizations** please head over to <a href="https://www.carbondesignsystem.com/data-visualization/getting-started">this</a> guide for instructions.
 
 
 ## 🌟 Contributing
@@ -36,7 +38,7 @@ Our Carbon Components <a href="http://www.carbondesignsystem.com/getting-started
 Follow the steps in our [Contributing guidelines](https://github.com/carbon-design-system/carbon-design-kit/blob/master/CONTRIBUTING.md) to contribute to the Carbon Design System.
 
 ### Code
-For instructions on contributing to our component library please read our <a href="https://github.com/carbon-design-system/carbon-components/blob/master/docs/contributing.md">contributing docs</a> for Carbon Components. 
+For instructions on contributing to our component library please read our <a href="https://github.com/carbon-design-system/carbon/blob/master/.github/CONTRIBUTING.md">contributing docs</a> for Carbon Components. 
 
 
 ## 💻 Workflow
