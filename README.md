@@ -27,7 +27,7 @@ All of the designs within the Carbon Design Kit meet the <a href="https://www.w3
 * Updates to the Design Kit will be posted in our change log, so check back frequently for changes!
 
 ### Developers: 
-Our **Carbon Components** <a href="https://www.carbondesignsystem.com/get-started/develop/react/">Getting Started</a> guide has all the instructions you need to get up and running our code base.
+Our **Carbon Components** <a href="https://carbondesignsystem.com/developing/react-tutorial/overview/">Getting Started</a> guide has all the instructions you need to get up and running our code base.
 
 For **Carbon Data Visualizations** please head over to <a href="https://www.carbondesignsystem.com/data-visualization/getting-started">this</a> guide for instructions.
 
