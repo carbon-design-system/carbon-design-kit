@@ -1,8 +1,11 @@
-<!-- Feel free to remove sections that aren't relevant.
+---
+name: Bug report or feature request
+about: Report issues or request new enhancements
+title: "[Title]: Brief description"
+labels: "status: needs triage \U0001F575️‍♀️"
+assignees: ''
 
-## Title line template: [Title]: Brief description
-
--->
+---
 
 ## Detailed description
 
@@ -35,7 +38,3 @@ Describe in detail the issue you're having. Please include whether or not this i
 
 * Screenshots or Sketch file links
 * Notes
-
-
-## Add labels
-Please choose the appropriate label(s) from our existing label list to ensure that your issue is properly categorized (i.e.use the `libraries` label for any issue relating to the Carbon Sketch Library). This will help us to better understand and address your issue.
