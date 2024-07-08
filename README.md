@@ -1,6 +1,6 @@
 # Carbon Design Kit
 
-The Carbon Design Kit is a living, breathing document containing all our visual assets (components, iconos, pictograms, color styles, text styles, grid templates, etc.). This document evolves and changes as we collaborate with partners and product teams. All assets that live in the kit can also be found on our [Carbon Design System](http://carbondesignsystem.com/) website.
+The Carbon Design Kit is a living, breathing document containing all our visual assets (components, icons, pictograms, color styles, text styles, grid templates, etc.). This document evolves and changes as we collaborate with partners and product teams. All assets that live in the kit can also be found on our [Carbon Design System](https://carbondesignsystem.com/) website.
 
 ## 📝 Change log
 The change log contains release notes on current and previous versions of the Carbon Design Kit. 
@@ -16,7 +16,7 @@ All of the designs within the Carbon Design Kit meet the [WCAG 2.1 AA accessibil
 * To get started with the Carbon Design Kit, see our [Get started guide](https://carbondesignsystem.com/designing/get-started/).
 * The Carbon Design Kit is in Figma, the primary design kit tool we support and maintain. To get the Carbon Design Kit in Figma, see our [Figma design kit guide](https://carbondesignsystem.com/designing/kits/figma/).
 * The Carbon Design Kit still exists in Sketch, but we no longer maintain it. We suggest migrating to Figma to get the most updated kits we offer. You can still download the Carbon Design Kit in Sketch file from [this repo](https://github.com/carbon-design-system/carbon-design-kit/tree/master/Carbon%20Design%20Kit%20-%20v11.0.0) or see our [Sketch design kit guide](https://carbondesignsystem.com/designing/kits/sketch/).
-* The Carbon Design Kit uses the typeface IBM Plex. It is open-sourced and free to download from the [IBM GitHub repo](https://github.com/IBM/plex) 
+* The Carbon Design Kit uses the typeface IBM Plex. It is open-sourced and free to download from the [IBM GitHub repo](https://github.com/IBM/plex).
 
 ### Developers 
 * For more instructions on getting up and running in our code base with Carbon components, see our [Get started guide](https://carbondesignsystem.com/developing/react-tutorial/overview/).
