@@ -1,53 +1,45 @@
 # Carbon Design Kit
 
-The Carbon Design Kit is a living, breathing document that contains all of our visual assets (components, iconography, color palettes, grids, templates, responsive behavior, etc). This document evolves and changes as we collaborate with partners and service teams. All of the assets that live in the Design Kit can also be found on our <a href="http://carbondesignsystem.com/">Carbon Design System</a> website.
+The Carbon Design Kit is a living, breathing document containing all our visual assets (components, iconos, pictograms, color styles, text styles, grid templates, etc.). This document evolves and changes as we collaborate with partners and product teams. All assets that live in the kit can also be found on our [Carbon Design System](http://carbondesignsystem.com/) website.
 
-
-## 📝 Change Log
-Contains release notes on current and previous versions of the Carbon Design Kit. 
-* [`8.x.x`](https://github.ibm.com/Bluemix/design-kit/releases/)
-* [`1.0.4` and older](https://github.ibm.com/Bluemix/design-kit/releases/tag/1.0.4)
-
+## 📝 Change log
+The change log contains release notes on current and previous versions of the Carbon Design Kit. 
+* [`10.x.x`](https://github.com/carbon-design-system/carbon-design-kit/releases/tag/v10.20.0)
+* [`8.3.1`](https://github.ibm.com/carbon/design-kit/releases) and [older](https://github.ibm.com/Bluemix/design-kit/releases/tag/1.0.4)
 
 ## :mag: Accessibility
-All of the designs within the Carbon Design Kit meet the <a href="https://www.w3.org/TR/WCAG20/">WCAG 2.0 AA accessibility guidelines</a> and are compliant with <a href="https://www.section508.gov"/>Section 508</a> standards. If you choose to customize these designs, please make sure they continue to meet these requirements.
-
+All of the designs within the Carbon Design Kit meet the [WCAG 2.1 AA accessibility guidelines](https://www.w3.org/TR/WCAG21/) and are compliant with [Section 508](https://www.section508.gov) standards. If you choose to customize these designs, please make sure they continue to meet these requirements.
 
 ## 📚 Getting Started
 
 ### Designers
+* To get started with the Carbon Design Kit, see our [Get started guide](https://carbondesignsystem.com/designing/get-started/).
+* The Carbon Design Kit is in Figma, the primary design kit tool we support and maintain. To get the Carbon Design Kit in Figma, see our [Figma design kit guide](https://carbondesignsystem.com/designing/kits/figma/).
+* The Carbon Design Kit still exists in Sketch, but we no longer maintain it. We suggest migrating to Figma to get the most updated kits we offer. You can still download the Carbon Design Kit in Sketch file from [this repo](https://github.com/carbon-design-system/carbon-design-kit/tree/master/Carbon%20Design%20Kit%20-%20v11.0.0) or see our [Sketch design kit guide](https://carbondesignsystem.com/designing/kits/sketch/).
+* The Carbon Design Kit uses the typeface IBM Plex. It is open-sourced and free to download from the [IBM GitHub repo](https://github.com/IBM/plex) 
 
-* The Carbon Design Kit now uses the new typeface **IBM Plex**. It is open sourced and free to download from the [IBM GitHub repo](https://github.com/IBM/plex) 
-* Download the latest version of the Carbon Design Kit by clicking on the latest kit file in this repo (`Carbon_Design-Kit_x.x.x.sketch`) then on the next page click the download button or “View Raw”. (Note: downloading from the main repo page will download the entire repo including previous version)
-
-* The Design Kit requires having the latest version of <a href="https://www.sketchapp.com/">Sketch</a> installed.
-* Open the Design Kit file in Sketch
-* Core visual styles, components, and templates are broken out into respective pages
-* Use the components and core visual styles to build out your design
-* Updates to the Design Kit will be posted in our change log, so check back frequently for changes!
-
-### Developers: 
-Our **Carbon Components** <a href="https://carbondesignsystem.com/developing/react-tutorial/overview/">Getting Started</a> guide has all the instructions you need to get up and running our code base.
-
-For **Carbon Data Visualizations** please head over to <a href="https://www.carbondesignsystem.com/data-visualization/getting-started">this</a> guide for instructions.
-
+### Developers 
+* For more instructions on getting up and running in our code base with Carbon components, see our [Get started guide](https://carbondesignsystem.com/developing/react-tutorial/overview/).
+* For more information on using Carbon Data Visualizations, see our [Get started guide](https://carbondesignsystem.com/data-visualization/getting-started/).
 
 ## 🌟 Contributing
 
 ### Design
-Follow the steps in our [Contributing guidelines](https://github.com/carbon-design-system/carbon-design-kit/blob/master/CONTRIBUTING.md) to contribute to the Carbon Design System.
+Follow our [Contributing guidelines](https://github.com/carbon-design-system/carbon-design-kit/blob/master/CONTRIBUTING.md) to contribute to the Carbon Design System.
 
 ### Code
-For instructions on contributing to our component library please read our <a href="https://github.com/carbon-design-system/carbon/blob/master/.github/CONTRIBUTING.md">contributing docs</a> for Carbon Components. 
+For instructions on contributing to our component library, read our [Contributing docs](https://github.com/carbon-design-system/carbon/blob/main/.github/CONTRIBUTING.md) for Carbon components. 
 
 
 ## 💻 Workflow
 
 ### Sketch Libraries
-Sketch Libraries is a new Sketch feature that allows designers to share Symbols across documents and easily update to the latest symbol changes. Read the [Sketch Libraries Overview wiki](https://github.com/carbon-design-system/carbon-design-kit/wiki/Sketch-Libraries-Overview) to learn more about how to use and implement Sketch Libraries in your workflow.
+Use the `(v11) All themes - Carbon Design System` as the main library for Carbon components. Use additional IBM Design Language libraries, such as the icons, pictograms, text styles, color styles, and hover color style libraries to add additional Carbon elements to your design files. 
 
 ### Plugins
-The Carbon Design Kit now comes with the Sketch Palettes plugin which allows you to import Carbon specific palettes into your Sketch files. There are four Carbon palettes (a Carbon default palette and three data vis palettes) included with the Carbon Design Kit download. We also have a [wiki](https://github.com/carbon-design-system/carbon-design-kit/wiki/Suggested-Sketch-Plugins) of suggested Sketch plugins to help make your design workflow more efficient.
+Use the following recommended plugins to help speed up your workflow in Figma. 
+- [Select Layers](https://www.figma.com/community/plugin/799648692768237063/select-layers): Select layers based on name, type, or similarity.
+- [Sort Layers](https://www.figma.com/community/plugin/767379414704079825/sort-layers): Sort layers by name or position.
+- [Many Paster](https://www.figma.com/community/plugin/831936445397604629/many-paster): Insert a list of data into selected text layers individually.
 
----
-Copyright © 2016, 2017, 2018 IBM
+For more recommended plugins, see our [Figma Education — Plugin Exercises](https://www.figma.com/design/gFHh67rjQFZlDMdNoqM1Ed/Plugin-Exercises?node-id=0-1&t=UgGRUirKj910RETz-0) file.
