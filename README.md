@@ -10,7 +10,7 @@ The change log contains release notes on current and previous versions of the Ca
 ## :mag: Accessibility
 All of the designs within the Carbon Design Kit meet the [WCAG 2.1 AA accessibility guidelines](https://www.w3.org/TR/WCAG21/) and are compliant with [Section 508](https://www.section508.gov) standards. If you choose to customize these designs, please make sure they continue to meet these requirements.
 
-## 📚 Getting Started
+## 📚 Getting started
 
 ### Designers
 * To get started with the Carbon Design Kit, see our [Get started guide](https://carbondesignsystem.com/designing/get-started/).
@@ -19,7 +19,7 @@ All of the designs within the Carbon Design Kit meet the [WCAG 2.1 AA accessibil
 * The Carbon Design Kit uses the typeface IBM Plex. It is open-sourced and free to download from the [IBM GitHub repo](https://github.com/IBM/plex).
 
 ### Developers 
-* For more instructions on getting up and running in our code base with Carbon components, see our [Get started guide](https://carbondesignsystem.com/developing/react-tutorial/overview/).
+* For more instructions on getting up and running in our code base with Carbon components, see our [Get started guide](https://carbondesignsystem.com/developing/get-started/).
 * For more information on using Carbon Data Visualizations, see our [Get started guide](https://carbondesignsystem.com/data-visualization/getting-started/).
 
 ## 🌟 Contributing
@@ -33,8 +33,8 @@ For instructions on contributing to our component library, read our [Contributin
 
 ## 💻 Workflow
 
-### Sketch Libraries
-Use the `(v11) All themes - Carbon Design System` as the main library for Carbon components. Use additional IBM Design Language libraries, such as the icons, pictograms, text styles, color styles, and hover color style libraries to add additional Carbon elements to your design files. 
+### Figma libraries
+Use the `(v11) Carbon Design System` Figma library as the main library for Carbon components. Use additional IBM Design Language libraries, such as the Carbon Type Sets, IBM® UI Icon Library, IBM® Pictogram Library, and the IBM® Color Library to add additional Carbon elements to your design files. 
 
 ### Plugins
 Use the following recommended plugins to help speed up your workflow in Figma. 
